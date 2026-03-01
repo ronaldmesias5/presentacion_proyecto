@@ -1,0 +1,57 @@
+# Archivos del Sistema Operativo
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDEs y Editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.iml
+
+# Node.js (si se usa en el proyecto)
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+ENV/
+env/
+.env
+
+# FastAPI/Uvicorn
+.uvicorn*
+
+# PostgreSQL
+*.sql
+*.db
+
+# Docker
+.dockerignore
+Dockerfile
+
+# Compilados
+*.o
+*.so
+*.class
+
+# Temporal
+*.tmp
+*.temp
+
+# Logs
+*.log
+logs/
+
+# Directorios temporales
+tmp/
+temp/
