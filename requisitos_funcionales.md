@@ -1,4 +1,4 @@
-**REQUERIMIENTOS FUNCIONALES** 
+## REQUERIMIENTOS FUNCIONALES 
 
 **Sistema de Gestión y Produccion de Calzado** 
 
